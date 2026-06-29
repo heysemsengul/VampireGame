@@ -8,7 +8,7 @@ import java.net.Socket;
 import shared.Message;
 
 public class GameClient extends Thread {
-    private static final String SERVER_HOST = "138.68.98.239";
+    private static final String SERVER_HOST = "localhost";
     private static final int SERVER_PORT = 5555;
 
     private Socket socket;
