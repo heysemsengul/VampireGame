@@ -4,12 +4,11 @@ A multiplayer social deduction game built in Java that use multiple libraries.
 
 ## Features
 
-- 5–11 player rooms with 4-character codes
+- 5–7-8-9-10-11 player rooms with 4-character codes
 - Four roles: Vampire, Seer, Doctor, Peasant
 - Phase loop: Night → Dawn → Discussion → Vote
 - Day/night theme transitions
 - Custom-painted UI components
-- Sound effects with mute toggle
 - Persistent settings across sessions
 
 ## Roles
