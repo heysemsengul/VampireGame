@@ -1,5 +1,5 @@
 # VampireGame
-----------
+---
 A multiplayer social deduction game built in Java that use multiple libraries.
 ---
 ## Features
