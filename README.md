@@ -1,5 +1,6 @@
 # VampireGame
-Basic Vampire Mafia Game
+----------
+A multiplayer social deduction game built in Java that use multiple libraries.
 ---
 ## Features
 - 5–11 player rooms with 4-character codes
